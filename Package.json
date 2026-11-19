@@ -1,0 +1,13 @@
+{
+  "name": "anonchatrandom",
+  "version": "1.0.0",
+  "description": "Telegram anonymous random chat bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
